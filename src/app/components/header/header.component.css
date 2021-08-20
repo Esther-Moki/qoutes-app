@@ -1,0 +1,9 @@
+.topPart{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 3%;
+  align-items: center;
+  margin-left:10% ;
+  margin-right: 10%;
+
+}

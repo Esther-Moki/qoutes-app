@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+  font-family: "Poppins",sans-serif;
+} 
+.container{
+  /* background-image: url(./assets/images/background2.jpeg); */
+  background: linear-gradient(to bottom, #45484d 0%,#000000 100%);
+  background-size: cover;
+  color: #ffffff;
+}
